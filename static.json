@@ -1,0 +1,8 @@
+{
+  "headers": {
+    "/*":{
+      "X-Author": "strax5",
+      "Access-Control-Allow-Origin": "*"
+    }
+  }
+}
