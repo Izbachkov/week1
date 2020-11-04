@@ -5,5 +5,9 @@
       "Content-Type": "text/plain; charset=UTF-8",
       "Access-Control-Allow-Origin": "*"
     }
+    "/**": {
+      "Access-Control-Allow-Origin": "*"
+      "Content-Type": "text/plain; charset=UTF-8",
+    }
   }
 }
