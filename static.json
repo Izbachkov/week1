@@ -2,6 +2,7 @@
     "https_only": true,
     "headers": {
       "/**" : {
+        "X-Author" : "strax5_exam",
         "Access-Control-Allow-Origin" : "*"
       }
     }
